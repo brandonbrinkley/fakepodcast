@@ -5,22 +5,26 @@
   <title>Fake Podcast</title>
   <link>https://www.fakewebsite.com</link>
   <description>Welcome to my completely fake podcast!</description>
+  <itunes:author>Fake Dude</itunes:author>
+  <itunes:type>episodic</itunes:type>
   <language>en</language>
   <item>
     <title>001 Fake it 'till you make it</title>
     <description>Learn how to fake it until you achieve some level of success or otherwise get fired. Lather, rinse, repeat.</description>
     <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
-    <enclosure url="https://url.com/podcasts/fake/episode001.mp3" type="audio/mpeg" length="34216300"/>
-    <itunes:duration>30:00</itunes:duration>
     <itunes:order>1</itunes:order>
+    <itunes:duration>30:00</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://url.com/podcasts/fake/episode001.mp3" type="audio/mpeg" length="34216300"/>
   </item>
   <item>
     <title>002 Fakery done right</title>
     <description>If you are going to fake it, you gotta be good at it.</description>
     <pubDate>Thu, 04 Aug 2022 12:00:00 GMT</pubDate>
-    <enclosure url="https://url.com/podcasts/fake/episode002.mp3" type="audio/mpeg" length="34216300"/>
-    <itunes:duration>30:00</itunes:duration>
     <itunes:order>2</itunes:order>
+    <itunes:duration>30:00</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <enclosure url="https://url.com/podcasts/fake/episode002.mp3" type="audio/mpeg" length="34216300"/>
   </item>
   <item>
     <title>003 Shake n' Fake</title>
@@ -33,9 +37,20 @@
       
     </description>
     <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
-    <enclosure url="https://url.com/podcasts/fake/episode003.mp3" type="audio/mpeg" length="34216300"/>
-    <itunes:duration>30:00</itunes:duration>
     <itunes:order>3</itunes:order>
+    <itunes:duration>30:00</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:keywords>foo,bar,spam</itunes:keywords>
+    <enclosure url="https://url.com/podcasts/fake/episode003.mp3" type="audio/mpeg" length="34216300"/>
+  </item>
+  <item>
+    <title>Trailer</title>
+    <description>This is a fake podcast. There's your trailer.</description>
+    <pubDate>Tue, 02 Aug 2022 12:00:00 GMT</pubDate>
+    <itunes:order>2</itunes:order>
+    <itunes:duration>3:00</itunes:duration>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <enclosure url="https://url.com/podcasts/fake/trailer.mp3" type="audio/mpeg" length="34216300"/>
   </item>
 </channel>
 
