@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <title>Fake Podcast</title>
+  <link>https://www.fakewebsite.com</link>
+  <description>Welcome to my completely fake podcast!</description>
+  <language>en</language>
+  <item>
+    <title>001 Fake it 'till you make it</title>
+    <description>Learn how to fake it until you achieve some level of success or otherwise get fired. Lather, rinse, repeat.</description>
+    <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
+    <enclosure url="https://url.com/podcasts/fake/episode001.mp3" type="audio/mpeg" length="34216300"/>
+    <itunes:duration>30:00</itunes:duration>
+  </item>
+  <item>
+    <title>002 Fakery done right</title>
+    <description>If you are going to fake it, you gotta be good at it.</description>
+    <pubDate>Thu, 04 Aug 2022 12:00:00 GMT</pubDate>
+    <enclosure url="https://url.com/podcasts/fake/episode002.mp3" type="audio/mpeg" length="34216300"/>
+    <itunes:duration>30:00</itunes:duration>
+  </item>
+</channel>
+
+</rss>
