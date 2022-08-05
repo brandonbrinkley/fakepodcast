@@ -20,6 +20,13 @@
     <enclosure url="https://url.com/podcasts/fake/episode002.mp3" type="audio/mpeg" length="34216300"/>
     <itunes:duration>30:00</itunes:duration>
   </item>
+  <item>
+    <title>003 Shake n' Fake</title>
+    <description>What's the best recipe for expert fakery?</description>
+    <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
+    <enclosure url="https://url.com/podcasts/fake/episode003.mp3" type="audio/mpeg" length="34216300"/>
+    <itunes:duration>30:00</itunes:duration>
+  </item>
 </channel>
 
 </rss>
