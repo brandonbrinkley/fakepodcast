@@ -12,6 +12,7 @@
     <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
     <enclosure url="https://url.com/podcasts/fake/episode001.mp3" type="audio/mpeg" length="34216300"/>
     <itunes:duration>30:00</itunes:duration>
+    <itunes:order>1</itunes:order>
   </item>
   <item>
     <title>002 Fakery done right</title>
@@ -19,6 +20,7 @@
     <pubDate>Thu, 04 Aug 2022 12:00:00 GMT</pubDate>
     <enclosure url="https://url.com/podcasts/fake/episode002.mp3" type="audio/mpeg" length="34216300"/>
     <itunes:duration>30:00</itunes:duration>
+    <itunes:order>2</itunes:order>
   </item>
   <item>
     <title>003 Shake n' Fake</title>
@@ -26,6 +28,7 @@
     <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
     <enclosure url="https://url.com/podcasts/fake/episode003.mp3" type="audio/mpeg" length="34216300"/>
     <itunes:duration>30:00</itunes:duration>
+    <itunes:order>3</itunes:order>
   </item>
 </channel>
 
