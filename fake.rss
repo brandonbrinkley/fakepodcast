@@ -44,6 +44,20 @@
     <enclosure url="https://url.com/podcasts/fake/episode003.mp3" type="audio/mpeg" length="34216300"/>
   </item>
   <item>
+    <title>004 Alex Figueira - Serious</title>
+    <description>
+    And now for a little free music.
+    This is "Serious" by Alex Figueira, curtousy of the Free Music Archive:
+    https://freemusicarchive.org/music/alex-figueira/mentallogenic/serious/
+    </description>
+    <pubDate>Mon, 22 Aug 2022 12:00:00 GMT</pubDate>
+    <itunes:order>4</itunes:order>
+    <itunes:duration>04:40</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:keywords>music</itunes:keywords>
+    <enclosure url="https://url.com/podcasts/fake/Alex Figueira - Serious.mp3" type="audio/mpeg" length="11206447"/>
+  </item>
+  <item>
     <title>Trailer</title>
     <description>This is a fake podcast. There's your trailer.</description>
     <pubDate>Tue, 02 Aug 2022 12:00:00 GMT</pubDate>
