@@ -5,6 +5,7 @@
   <title>Fake Podcast</title>
   <link>https://www.fakewebsite.com</link>
   <description>Welcome to my completely fake podcast!</description>
+  <itunes:image href="https://brandon-brinkley.github.io/fakepodcast/cover.jpg"/>
   <itunes:author>Fake Dude</itunes:author>
   <itunes:type>episodic</itunes:type>
   <language>en</language>
@@ -51,7 +52,6 @@
     https://freemusicarchive.org/music/alex-figueira/mentallogenic/serious/
     </description>
     <pubDate>Mon, 22 Aug 2022 12:00:00 GMT</pubDate>
-    <itunes:image href="https://brandon-brinkley.github.io/fakepodcast/Messier_26.jpg"/>
     <itunes:order>4</itunes:order>
     <itunes:duration>04:40</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
