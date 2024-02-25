@@ -5,7 +5,7 @@
   <title>Fake Podcast</title>
   <link>https://www.fakewebsite.com</link>
   <description>Welcome to my completely fake podcast!</description>
-  <itunes:image href="https://brandon-brinkley.github.io/fakepodcast/cover.jpg"/>
+  <itunes:image href="https://brandonbrinkley.github.io/fakepodcast/cover.jpg"/>
   <itunes:author>Fake Dude</itunes:author>
   <itunes:type>episodic</itunes:type>
   <language>en</language>
@@ -16,7 +16,7 @@
     <itunes:order>1</itunes:order>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
-    <enclosure url="https://brandon-brinkley.github.io/fakepodcast/episode001.mp3" type="audio/mpeg" length="5041"/>
+    <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode001.mp3" type="audio/mpeg" length="5041"/>
   </item>
   <item>
     <title>002 Fakery done right</title>
@@ -25,7 +25,7 @@
     <itunes:order>2</itunes:order>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
-    <enclosure url="https://brandon-brinkley.github.io/fakepodcast/episode002.mp3" type="audio/mpeg" length="5146"/>
+    <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode002.mp3" type="audio/mpeg" length="5146"/>
   </item>
   <item>
     <title>003 Shake n' Fake</title>
@@ -42,7 +42,7 @@
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:keywords>foo,bar,spam</itunes:keywords>
-    <enclosure url="https://brandon-brinkley.github.io/fakepodcast/episode003.mp3" type="audio/mpeg" length="5120"/>
+    <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode003.mp3" type="audio/mpeg" length="5120"/>
   </item>
   <item>
     <title>004 Alex Figueira - Serious</title>
