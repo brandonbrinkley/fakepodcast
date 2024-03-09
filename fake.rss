@@ -13,7 +13,7 @@
     <title>001 Fake it 'till you make it</title>
     <description>Learn how to fake it until you achieve some level of success or otherwise get fired. Lather, rinse, repeat.</description>
     <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
-    <itunes:order>1</itunes:order>
+    <itunes:episode>1</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode001.mp3" type="audio/mpeg" length="5041"/>
@@ -22,7 +22,7 @@
     <title>002 Fakery done right</title>
     <description>If you are going to fake it, you gotta be good at it.</description>
     <pubDate>Thu, 04 Aug 2022 12:00:00 GMT</pubDate>
-    <itunes:order>2</itunes:order>
+    <itunes:episode>2</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode002.mp3" type="audio/mpeg" length="5146"/>
@@ -38,7 +38,7 @@
       
     </description>
     <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
-    <itunes:order>3</itunes:order>
+    <itunes:episode>3</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:keywords>foo,bar,spam</itunes:keywords>
@@ -50,7 +50,7 @@
     This is just a test
     </description>
     <pubDate>Sat, 06 Aug 2022 12:00:00 GMT</pubDate>
-    <itunes:order>3</itunes:order>
+    <itunes:episode>3</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>bonus</itunes:episodeType>
     <itunes:keywords>foo,bar,spam</itunes:keywords>
