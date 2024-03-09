@@ -7,7 +7,7 @@
   <description>Welcome to my completely fake podcast!</description>
   <itunes:image href="https://brandonbrinkley.github.io/fakepodcast/cover.jpg"/>
   <itunes:author>Fake Dude</itunes:author>
-  <itunes:type>episodic</itunes:type>
+  <itunes:type>serial</itunes:type>
   <language>en</language>
   <item>
     <title>001 Fake it 'till you make it</title>
