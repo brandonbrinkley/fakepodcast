@@ -45,11 +45,23 @@
     <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode003.mp3" type="audio/mpeg" length="5120"/>
   </item>
   <item>
-    <title>003 BONUS TEST</title>
+    <title>003 BONUS TEST 1</title>
     <description>
     This is just a test
     </description>
-    <pubDate>Sat, 06 Aug 2022 12:00:00 GMT</pubDate>
+    <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
+    <itunes:episode>3</itunes:episode>
+    <itunes:duration>30:00</itunes:duration>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <itunes:keywords>foo,bar,spam</itunes:keywords>
+    <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode003.mp3" type="audio/mpeg" length="5120"/>
+  </item>
+  <item>
+    <title>003 BONUS TEST 2</title>
+    <description>
+    This is also just a test
+    </description>
+    <pubDate>Fri, 05 Aug 2022 12:00:00 GMT</pubDate>
     <itunes:episode>3</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>bonus</itunes:episodeType>
