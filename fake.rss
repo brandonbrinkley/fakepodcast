@@ -69,6 +69,16 @@
     <itunes:keywords>foo,bar,spam</itunes:keywords>
     <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode003.mp3" type="audio/mpeg" length="5120"/>
   </item>
+  <item>
+    <title>004 SVG Episode Art Test</title>
+    <description>This is just a test to see if podcast players will show SVG images.</description>
+    <pubDate>Wed, 03 Aug 2022 12:00:00 GMT</pubDate>
+    <itunes:episode>4</itunes:episode>
+    <itunes:duration>30:00</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://brandonbrinkley.github.io/fakepodcast/smile.svg"/>
+    <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode001.mp3" type="audio/mpeg" length="5041"/>
+  </item>
 </channel>
 
 </rss>
