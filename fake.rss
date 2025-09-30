@@ -16,6 +16,7 @@
     <itunes:episode>1</itunes:episode>
     <itunes:duration>30:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://brandonbrinkley.github.io/fakepodcast/smile.svg"/>
     <enclosure url="https://brandonbrinkley.github.io/fakepodcast/episode001.mp3" type="audio/mpeg" length="5041"/>
   </item>
   <item>
